@@ -15,7 +15,7 @@ function MainPage(){
                     <i className="fa-brands fa-linkedin"></i> LinkedIn
                     </a>
                 </div>
-                <h3 className="middleHeadings">About</h3>
+                <h3 className="middleHeadings">A bit about me</h3>
                 <p className="middleparagraphs">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores reiciendis maiores hic 
                     iure veniam reprehenderit perferendis qui quas eligendi </p>
                 <h3 className="middleHeadings">Interests</h3>
