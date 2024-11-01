@@ -120,5 +120,9 @@ footer .fa-brands{
   }
   .envelope{
     margin:0 auto 0.7rem;
+  }
+  .mainLinks{
+    width: 90%;
+    letter-spacing: 2px;
   } 
 }
