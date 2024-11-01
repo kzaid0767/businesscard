@@ -1,0 +1,124 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #23252C;
+  text-align: center;
+  font-family: "Inter", serif;
+}
+
+.headerDiv{
+  margin-top: 3rem;
+}
+.justwidth{
+  width: 55vw;
+  max-width: 500px;
+  min-width: 340px;
+}
+.mainImg{
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  display: block;
+  margin: 0 auto;
+}
+
+.mainPage{
+  background-color: #1A1B21;
+  margin: auto;
+}
+
+.top{
+  text-align: center;
+  padding-top: 1rem;
+}
+
+h1{
+  color: #FFFFFF;
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h3{
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #F3BF99;
+  font-size: 1rem;
+}
+
+.middle{
+  padding: 2rem;
+}
+
+.middleHeadings{
+  text-align: left;
+  color: #F5F5F5;
+}
+
+.middleparagraphs{
+  color: #DCDCDC;
+  text-align: justify;
+}
+
+.bottom{
+  margin-bottom: 0;
+}
+
+.buttonContainer{
+  margin-bottom: 1.5rem;
+}
+
+.mainLinks{
+  text-decoration: none;
+  width: 7.5rem;
+  text-align: center;
+  padding: 0.5em 0.75em;
+  border-radius: 8px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* Buttons */
+.envelope{
+  background-color: #D1D5DB;
+  color: #374151;
+  margin-right: 1rem;
+}
+
+.linkedins{
+  background-color: #5093E2;
+  color: #FFFFFF;
+}
+
+.pageFooter{
+  background-color: #161619;
+  display: flex;
+  justify-content:center;
+  margin: 0 auto 2rem;
+  padding: 1rem;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+footer .fa-brands{
+  color: #918E9B;
+  border: 1px solid #918E9B;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.fa-facebook-f{
+  margin: 0 1rem;
+}
+
+@media (max-width:586px){
+  .buttonContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .envelope{
+    margin:0 auto 0.7rem;
+  } 
+}
