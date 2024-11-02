@@ -124,5 +124,8 @@ footer .fa-brands{
   .mainLinks{
     width: 90%;
     letter-spacing: 2px;
+  }
+  .justwidth{
+    width: 95%;
   } 
 }

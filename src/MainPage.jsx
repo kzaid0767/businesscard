@@ -15,13 +15,17 @@ function MainPage(){
                     <i className="fa-brands fa-linkedin"></i> LinkedIn
                     </a>
                 </div>
-                <h3 className="middleHeadings">A bit about me</h3>
-                <p className="middleparagraphs">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores reiciendis maiores hic 
-                    iure veniam reprehenderit perferendis qui quas eligendi </p>
+                <h3 className="middleHeadings">About me</h3>
+                <p className="middleparagraphs">I am deeply passionate about frontend development. I relish the challenge of taking
+                    a Figma design and turning it into a live creation. I am constantly pushing myself to learn and explore the ever evolving
+                    nuances of frontend development. I see myself building a large scale App in the near future.
+                </p>
                 <h3 className="middleHeadings">Interests</h3>
-                <p className="middleparagraphs bottom">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum quas illum hic laudantium 
-                    consequatur est aperiam similique, dicta earum fugiat 
-                    maxime velit sequi quidem possimus quibusdam quae dolorem accusamus esse!</p>
+                <p className="middleparagraphs bottom">When I am not coding or learning some aspects of coding, I enjoy spending
+                    my time being immersed in sports. This can be excersing outdoors, swimming, and coaching soccer. I also enjoy watching
+                    soccer, football, basketball, and track. I am not into the Messi and Ronaldo debate, but my choice is Pele over
+                    Maradona.
+                </p>
             </section>
         </div>
     )
